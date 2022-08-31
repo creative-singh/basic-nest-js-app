@@ -1,1 +1,3 @@
-# basic-nest-js-app
+# First app of NestJs
+
+## Learning phase
